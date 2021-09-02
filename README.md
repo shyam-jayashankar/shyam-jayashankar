@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyam-jayashankar 
-- I am pursuing my masters at Stonybrook University
+- I am pursuing my Masters in Computer Science at Stonybrook University
 - 👀 I’m interested in food, travel, literature.. Just talk me through anything, and rest assured, we'll get along quite well :)
-- 🌱 I’m currently learning Computers (in the truest and most passionate sense)...
+- 🌱 I’m passionate about incorporating real-time intelligent systems to automate the simplest of works around..!
 - 📫 Drop a mail to shyam.jayashankar@gmail.com and we shall collaborate...! :)
 
 <!---
